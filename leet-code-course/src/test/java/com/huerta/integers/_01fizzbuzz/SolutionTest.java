@@ -1,8 +1,6 @@
-package com.huerta.integers._1fizzbuzz;
+package com.huerta.integers._01fizzbuzz;
 
 import static org.junit.jupiter.api.Assertions.*;
-
-import java.util.List;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -19,7 +17,6 @@ public class SolutionTest {
   @Test
   void test_fizz_buzz() {
     // Arrange
-    List<Integer> list = List.of(2, 15, 30, 60, 0);
     String[] expected = { "1", "2", "Fizz" };
 
     // Act
