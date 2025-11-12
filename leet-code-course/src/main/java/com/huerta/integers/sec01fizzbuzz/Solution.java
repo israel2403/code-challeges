@@ -1,4 +1,4 @@
-package com.huerta.integers._01fizzbuzz;
+package com.huerta.integers.sec01fizzbuzz;
 
 import java.util.ArrayList;
 import java.util.List;

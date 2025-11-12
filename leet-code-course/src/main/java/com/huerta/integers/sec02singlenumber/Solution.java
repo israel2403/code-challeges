@@ -1,4 +1,4 @@
-package com.huerta.integers._02singlenumber;
+package com.huerta.integers.sec02singlenumber;
 
 import java.util.HashSet;
 import java.util.Set;
